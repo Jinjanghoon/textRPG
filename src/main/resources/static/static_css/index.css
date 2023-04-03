@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+
+}
+
+.main_container {
+  position: relative;
+  width: 100%;
+}
+
+.main_img {
+  width: 100%;
+}
+
+.main_info {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.main_info h2 {
+    font-size:30px;
+    color:white;
+    font-weight: bold;
+}
+
+.main_info p {
+    font-size:23px;
+    color:white;
+}
+
+.main_info a {
+    text-decoration:none;
+    color:white;
+    font-size:30px;
+    text-align:center;
+}
+
+.main_signup {
+    margin-right:50px;
+}
+
+.main_signin {
+    margin-left:50px;
+}
+
